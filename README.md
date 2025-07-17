@@ -2,7 +2,7 @@
 
 This project is an Online Finance Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to assist users in managing their finances efficiently by providing various tools and features to track, analyze, and visualize financial data.
 
-![Finance-Management (4)](https://github.com/diaskalana/Finance-Management-System/assets/74653324/13f05091-4657-475c-b8ff-76a1a08d6ad2)
+![Finance-Management (4)]'//(https://github.com/diaskalana/Finance-Management-System/assets/74653324/13f05091-4657-475c-b8ff-76a1a08d6ad2)
 
 ## Features
 
